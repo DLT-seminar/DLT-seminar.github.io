@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lins-lab.github.io//ml_seminar/sitemap.xml
+Sitemap: https://dlt-seminar.github.io//sitemap.xml
